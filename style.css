@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    padding: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmGN3Z2UDBH_AR0KHkqtHMkUacYYo_bhxzw&s);
+    background-size: cover;
+    background-blend-mode: darken;
+    
+    
+}
+.topnav {
+    overflow: hidden;
+  }
+  
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: 25px;
+}
+  
+.topnav a:hover {
+    background-color: grey;
+    color: white;
+}
+  
+.interior {
+    padding-left: 50px;
+    color: white;
+}
+.center {
+    font-size: 60px;
+    color: white;
+    padding: 150px;
+    margin: 10px;
+}
+p {
+    color: white;
+    text-align: center;
+}
+.button1, .button2 {
+    margin: 50px;
+    font-size: large;
+}  
+.button1 {
+    border-radius: 25px;
+    background: none;
+    color: white;
+}
+.button2 {
+    border-radius: 25px;
+    background: none;
+    color: white;
+}
